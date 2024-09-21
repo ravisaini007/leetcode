@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2756-buy-two-chocolates](https://github.com/ravisaini007/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Greedy
 |  |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2756-buy-two-chocolates](https://github.com/ravisaini007/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravisaini007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -33,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ravisaini007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
