@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ravisaini007/leetcode/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravisaini007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ravisaini007/leetcode/tree/master/0389-find-the-difference) |
 ## Queue
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ravisaini007/leetcode/tree/master/0389-find-the-difference) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ravisaini007/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
