@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ravisaini007/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ravisaini007/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ravisaini007/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/ravisaini007/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravisaini007/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravisaini007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ravisaini007/leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ravisaini007/leetcode/tree/master/0389-find-the-difference) |
 | [2756-buy-two-chocolates](https://github.com/ravisaini007/leetcode/tree/master/2756-buy-two-chocolates) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ravisaini007/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ravisaini007/leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ravisaini007/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
