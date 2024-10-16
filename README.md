@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ravisaini007/leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/ravisaini007/leetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/ravisaini007/leetcode/tree/master/0476-number-complement) |
 ## Trie
 |  |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravisaini007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/ravisaini007/leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
