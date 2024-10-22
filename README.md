@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ravisaini007/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ravisaini007/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ravisaini007/leetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/ravisaini007/leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/ravisaini007/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/ravisaini007/leetcode/tree/master/1013-fibonacci-number) |
 ## Array
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ravisaini007/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ravisaini007/leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/ravisaini007/leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ravisaini007/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravisaini007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ravisaini007/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravisaini007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ravisaini007/leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/ravisaini007/leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ravisaini007/leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/ravisaini007/leetcode/tree/master/0908-middle-of-the-linked-list) |
