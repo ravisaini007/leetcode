@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ravisaini007/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ravisaini007/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravisaini007/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ravisaini007/leetcode/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravisaini007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravisaini007/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ravisaini007/leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/ravisaini007/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/ravisaini007/leetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/ravisaini007/leetcode/tree/master/0476-number-complement) |
