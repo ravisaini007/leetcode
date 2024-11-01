@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ravisaini007/leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/ravisaini007/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/ravisaini007/leetcode/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ravisaini007/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravisaini007/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/ravisaini007/leetcode/tree/master/0792-binary-search) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ravisaini007/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ravisaini007/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2756-buy-two-chocolates](https://github.com/ravisaini007/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Greedy
