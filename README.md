@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ravisaini007/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ravisaini007/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ravisaini007/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ravisaini007/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ravisaini007/leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/ravisaini007/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/ravisaini007/leetcode/tree/master/1013-fibonacci-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ravisaini007/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ravisaini007/leetcode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravisaini007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/ravisaini007/leetcode/tree/master/0792-binary-search) |
