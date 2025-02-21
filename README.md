@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ravisaini007/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ravisaini007/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ravisaini007/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ravisaini007/leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravisaini007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravisaini007/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ravisaini007/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ravisaini007/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ravisaini007/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ravisaini007/leetcode/tree/master/0389-find-the-difference) |
 | [2756-buy-two-chocolates](https://github.com/ravisaini007/leetcode/tree/master/2756-buy-two-chocolates) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ravisaini007/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ravisaini007/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ravisaini007/leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/ravisaini007/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ravisaini007/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravisaini007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
