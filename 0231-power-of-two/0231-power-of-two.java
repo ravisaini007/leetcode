@@ -6,7 +6,7 @@ class Solution {
         while (n > 0) {
             if (n == 1) return true;
             if (n % 2 != 0) break;
-            n /= 2;
+            n =n/ 2;
         }
         return false;
         
