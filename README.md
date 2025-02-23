@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ravisaini007/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ravisaini007/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ravisaini007/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ravisaini007/leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/ravisaini007/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/ravisaini007/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ravisaini007/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ravisaini007/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/ravisaini007/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ravisaini007/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ravisaini007/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ravisaini007/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/ravisaini007/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/ravisaini007/leetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/ravisaini007/leetcode/tree/master/0476-number-complement) |
