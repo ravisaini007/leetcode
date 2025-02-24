@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ravisaini007/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ravisaini007/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ravisaini007/leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/ravisaini007/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/ravisaini007/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ravisaini007/leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/ravisaini007/leetcode/tree/master/0412-fizz-buzz) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ravisaini007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ravisaini007/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ravisaini007/leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/ravisaini007/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/ravisaini007/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravisaini007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ravisaini007/leetcode/tree/master/0389-find-the-difference) |
