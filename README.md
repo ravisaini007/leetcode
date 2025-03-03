@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ravisaini007/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ravisaini007/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ravisaini007/leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/ravisaini007/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ravisaini007/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/ravisaini007/leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ravisaini007/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ravisaini007/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/ravisaini007/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ravisaini007/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/ravisaini007/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/ravisaini007/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
