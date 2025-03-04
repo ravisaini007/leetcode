@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ravisaini007/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ravisaini007/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ravisaini007/leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/ravisaini007/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ravisaini007/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ravisaini007/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/ravisaini007/leetcode/tree/master/1013-fibonacci-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ravisaini007/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ravisaini007/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravisaini007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ravisaini007/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ravisaini007/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ravisaini007/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ravisaini007/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ravisaini007/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ravisaini007/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ravisaini007/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ravisaini007/leetcode/tree/master/0389-find-the-difference) |
 | [2756-buy-two-chocolates](https://github.com/ravisaini007/leetcode/tree/master/2756-buy-two-chocolates) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ravisaini007/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ravisaini007/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ravisaini007/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ravisaini007/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ravisaini007/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ravisaini007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ravisaini007/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ravisaini007/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravisaini007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ravisaini007/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravisaini007/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ravisaini007/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ravisaini007/leetcode/tree/master/0792-binary-search) |
@@ -174,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ravisaini007/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ravisaini007/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ravisaini007/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ravisaini007/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/ravisaini007/leetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/ravisaini007/leetcode/tree/master/0476-number-complement) |
