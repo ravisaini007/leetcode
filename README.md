@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ravisaini007/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ravisaini007/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ravisaini007/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ravisaini007/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ravisaini007/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ravisaini007/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/ravisaini007/leetcode/tree/master/1013-fibonacci-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ravisaini007/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ravisaini007/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ravisaini007/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ravisaini007/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ravisaini007/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ravisaini007/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ravisaini007/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ravisaini007/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ravisaini007/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ravisaini007/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/ravisaini007/leetcode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/ravisaini007/leetcode/tree/master/0476-number-complement) |
